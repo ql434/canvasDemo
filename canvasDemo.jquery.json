@@ -1,0 +1,26 @@
+{
+  "name": "canvasDemo",
+  "title": "Canvasdemo",
+  "description": "the canvas demo for funning",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kunqian/canvasDemo",
+  "author": {
+    "name": "ql434",
+    "email": "kunqian434@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kunqian/canvasDemo.git"
+  },
+  "bugs": "https://github.com/kunqian/canvasDemo/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kunqian/canvasDemo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
